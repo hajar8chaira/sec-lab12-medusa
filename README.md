@@ -1,9 +1,8 @@
 # Rapport de Laboratoire : Sécurité des Applications Mobiles
 ## LAB 12 — Bypass de la Détection de Root Android avec Medusa & Frida
 
-**Étudiant :** [Votre Nom]  
+**Étudiante :** Chaira Hajar  
 **Sujet :** Instrumentation dynamique pour le contournement de mécanismes de sécurité (Root Detection)  
-**Date :** 05 Mai 2026
 
 ---
 
