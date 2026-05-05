@@ -56,8 +56,10 @@ pip install -r requirements.txt
 ### 3.2 Sélection de la Cible
 L'application choisie pour ce laboratoire est **RootBeer Sample**, une référence dans les tests de détection de root. Avant toute intervention de Medusa, l'application détectait l'environnement comme étant "Rooted".
 > ![État initial](./img-lab12-sec/5.png)
+
 > [!NOTE]
 > **État initial de l'application (Rooted) :**
+
 > ![État initial](./img-lab12-sec/10.png)
 
 ### 3.3 Recherche et Choix des Modules
@@ -87,6 +89,7 @@ L'application RootBeer Sample confirme que l'appareil n'est plus détecté comme
 
 > [!IMPORTANT]
 > **Capture finale (100% vert) :**
+
 > ![Succès 100%](./img-lab12-sec/12.png)
 
 
